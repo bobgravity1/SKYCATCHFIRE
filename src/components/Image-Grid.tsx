@@ -88,7 +88,7 @@ export const ImageGrid = () => {
         </p>
         <img
           src="/logo-marthas.png"
-          className="w-[180px] absolute -right-[60px] -bottom-[80px]"
+          className="w-[180px] absolute -right-[62px] -bottom-[80px]"
         />
       </div>
     </div>
